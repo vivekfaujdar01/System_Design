@@ -409,6 +409,8 @@ Client → Facade → Subsystem A
 
 **Intent**: Pass a request along a chain of handlers; each handler either processes it or passes it to the next one.
 
+**Detailed Module**: [Chain of Responsibility Pattern](file:///home/faujdar/Desktop/System_Design/LLD/behavioural/chain_of_responsibility/01_Introduction_and_Concept.md)
+
 **When to use**:
 - Middleware pipelines
 - Event handling systems
